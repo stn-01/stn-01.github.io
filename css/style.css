@@ -1,13 +1,13 @@
 
-
 bodY {
   background-image: url("../images/layout-1920-04.png");
-
-
 }
 
-
 h1 {
-  color: red;
+  color: rgb(255, 255, 255);
+}
 
+p {
+  color:  rgb(255, 255, 255);
+  font-size: 2em;
 }
